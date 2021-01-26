@@ -37,9 +37,9 @@
     <url>https://www.graylog.org</url>
 
     <scm>
-        <connection>scm:git:git@github.com:Graylog2/graylog-plugin-integrations.git</connection>
-        <developerConnection>scm:git:git@github.com:Graylog2/graylog-plugin-integrations.git</developerConnection>
-        <url>https://github.com/Graylog2/graylog-plugin-integrations</url>
+        <connection>scm:git:git@github.com:juju2112/graylog-plugin-integrations.git</connection>
+        <developerConnection>scm:git:git@github.com:juju2112/graylog-plugin-integrations.git</developerConnection>
+        <url>https://github.com/juju2112/graylog-plugin-integrations</url>
         <tag>HEAD</tag>
     </scm>
 
